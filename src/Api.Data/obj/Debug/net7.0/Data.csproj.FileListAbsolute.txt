@@ -1,0 +1,17 @@
+/home/victorxavier/curso-api-netcore/src/Api.Data/bin/Debug/net7.0/Data.deps.json
+/home/victorxavier/curso-api-netcore/src/Api.Data/bin/Debug/net7.0/Data.runtimeconfig.json
+/home/victorxavier/curso-api-netcore/src/Api.Data/bin/Debug/net7.0/Data.dll
+/home/victorxavier/curso-api-netcore/src/Api.Data/bin/Debug/net7.0/Data.pdb
+/home/victorxavier/curso-api-netcore/src/Api.Data/bin/Debug/net7.0/Domain.dll
+/home/victorxavier/curso-api-netcore/src/Api.Data/bin/Debug/net7.0/Domain.pdb
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.csproj.AssemblyReference.cache
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.AssemblyInfoInputs.cache
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.AssemblyInfo.cs
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.csproj.CoreCompileInputs.cache
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.csproj.CopyComplete
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.dll
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/refint/Data.dll
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.pdb
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/Data.genruntimeconfig.cache
+/home/victorxavier/curso-api-netcore/src/Api.Data/obj/Debug/net7.0/ref/Data.dll

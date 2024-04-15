@@ -1,0 +1,12 @@
+/home/victorxavier/curso-api-netcore/src/App.Domain/bin/Debug/net7.0/Domain.deps.json
+/home/victorxavier/curso-api-netcore/src/App.Domain/bin/Debug/net7.0/Domain.dll
+/home/victorxavier/curso-api-netcore/src/App.Domain/bin/Debug/net7.0/Domain.pdb
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/Domain.dll
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/Domain.pdb
+/home/victorxavier/curso-api-netcore/src/App.Domain/obj/Debug/net7.0/ref/Domain.dll
